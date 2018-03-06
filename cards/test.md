@@ -47,13 +47,13 @@ Sample format description text
 
 
 <!-- SUBMITTER - NAME- ----------------------------------------------->
-## Submitted By
+## Submitter Name
 
 Sample submitter name text
 
 
 <!-- SUBMITTER - EMAIL ADDRESS- ----------------------------------------------->
-## Submitted By
+## Submitter Email
 
 Sample submitter email text
 
