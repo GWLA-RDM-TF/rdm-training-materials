@@ -16,5 +16,9 @@ New resources can be added to the card collection by copying the `card-template.
 
 If you have [Pandoc](https://pandoc.org/MANUAL.html) installed on your computer and have an operational `bash` shell environment, you can run the scripts in the `scripts` folder to regenerate the compiled HTML and PDF files that represent all of the registered resources. 
 
+----------------------
+
+You can provide feedback and suggestions for improvements and fixes through the [issues](https://github.com/GWLA-RDM-TF/rdm-training-materials/issues) section of this repository. 
+
 
 
