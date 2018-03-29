@@ -1,0 +1,30 @@
+body {
+	font-family: "Helvetica Neue", Arial, Helvetica, Geneva, sans-serif;
+}
+
+h1 {
+	font-size: x-large;
+}
+
+h2 {
+	font-size: large;
+}
+
+.resourceName h1{
+	border-bottom-style: solid;
+	border-top-style: solid;
+	margin-top: 3em;
+}
+
+.resourceDescription h2{
+	display: none;
+}
+
+.level2 p,li,a{
+	font-size: medium;
+	font-weight: normal;
+	font-style: normal;
+	color: black;	
+}
+
+
