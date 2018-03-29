@@ -2,7 +2,11 @@
 
 This repository is an aggregation point for a curated collection of *Research Data Management* educational and training materials. Each item in the collection is represented by a "card" that is based on a flavor of [markdown](https://daringfireball.net/projects/markdown/syntax) that is supported by the [Pandoc](https://pandoc.org/MANUAL.html) processor. 
 
-The HTML view of the card collection can be viewed at: [http:/GWLA-RDM-TF.github.io/rdm-training-materials/all-cards.html](http:/GWLA-RDM-TF.github.io/rdm-training-materials/all-cards.html)
+The HTML view of the resource collection can be viewed at: 
+* [http:/GWLA-RDM-TF.github.io/rdm-training-materials/all-cards.html](http:/GWLA-RDM-TF.github.io/rdm-training-materials/all-cards.html)
+
+The PDF representation of the resource collection cat be downloaded from: 
+* [http:/GWLA-RDM-TF.github.io/rdm-training-materials/all-cards.pdf](http:/GWLA-RDM-TF.github.io/rdm-training-materials/all-cards.pdf)
 
 ----------------------
 
