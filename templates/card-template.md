@@ -77,6 +77,12 @@ Sample submitter name text
 
 Sample submitter email text
 
+<!-- related-to - Other Related Cards----------------------------------------->
+## Related Resources {.relatedResources}
+
+* Sample card name
+* Sample card name
+
 
 
 
